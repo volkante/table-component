@@ -1,0 +1,14 @@
+/* MAIN COLOR: #087f5b
+   GRAY COLOR: #343a40 
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "inter", sans-serif;
+  line-height: 1;
+}
